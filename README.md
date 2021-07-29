@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... nothing
 -->
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKEITNepal&count_private=true)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKEITNepal&count_private=false)
